@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @simrandotdev
 - 👀 I’m interested in iOS Development
-- 🌱 I’m currently learning Rails
-- 💞️ I’m looking to collaborate on iOS and Rails projects
+- 💞️ I’m looking to collaborate on iOS and Express projects
 - 📫 Reach out to me on mastodon @simrandotdev@mastodon.social
