@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Simran Preet Singh
 - 👀 I’m interested in iOS Development
-- 💞️ I’m looking to collaborate on iOS, Vapor and Rails projects
+- 💞️ I’m looking to collaborate on iOS projects
 - 📫 Reach out to me on mastodon @simrandotdev@mastodon.social
